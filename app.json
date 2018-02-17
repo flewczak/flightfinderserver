@@ -1,0 +1,21 @@
+{
+  "name": "FlightFinderServer",
+  "description": "Python server",
+  "image": "heroku/python",
+  "repository": "https://git.heroku.com/flight-finder-server.git",
+  "keywords": ["python"],
+  "env": {
+    "SECRET_KEY": {
+      "description": "The secret key for the Django application.",
+      "generator": "secret"
+    }
+  },
+  "environments": {
+    "test": {
+      "scripts": {
+        "test-setup": "python server.py collectstatic --noinput",
+        "test": "python server.py test"
+      }
+    }
+  }
+}

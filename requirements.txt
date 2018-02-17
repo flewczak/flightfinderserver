@@ -1,0 +1,4 @@
+networkx==2.0
+geopy==1.11.0
+aiohttp==2.3.7
+python-socketio==1.8.4

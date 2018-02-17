@@ -1,0 +1,353 @@
+JP,adria-airways,Adria Airways
+A3,aegean-airlines,Aegean Airlines
+EI,aer-lingus,Aer Lingus
+HA,aerocaribbean,Hawaiian Airlines
+SU,aeroflot-russian-airlines,Aeroflot Russian Airlines
+AR,aerolineas-argentinas,Aerolineas Argentinas
+AM,aeromexico,AeroMéxico
+VV,aerosur,Aerosvit Airlines
+8U,afriqiyah-airways,Afriqiyah Airways
+ZI,aigle-azur,Aigle Azur
+AH,air-algerie,Air Algerie
+G9,air-arabia,Air Arabia
+TS,air-astana,Air Transat
+UU,air-austral,Air Austral
+NY,air-bagan,Air Iceland
+AB,air-berlin,Air Berlin
+MU,air-botswana,China Eastern Airlines
+BX,air-busan,Air Busan
+SM,air-cairo-user,Spirit of Manila Airlines
+AC,air-canada,Air Canada
+RV,air-canada-rouge,Caspian Airlines
+TX,air-caraibes,Air Caraïbes
+CA,air-china,Air China
+XK,air-corsica,Corse-Mediterranee
+EN,air-dolomiti,Air Dolomiti
+UX,air-europa,Air Europa
+AF,air-france,Air France
+KU,air-greenland,Kuwait Airways
+AI,air-india,Air India Limited
+IX,air-india-express,Air India Express
+FN,air-koryo,Regional Airlines
+WJ,air-labrador,WebJet Linhas A
+NX,air-macau,Air Macau
+MD,air-madagascar,Air Madagascar
+QM,air-malawi,Air Malawi
+KM,air-malta,Air Malta
+MK,air-mauritius,Air Mauritius
+DR,air-mediterranee,Air Mediterranee
+ME,air-memphis,Middle East Airlines
+9U,air-moldova,Air Moldova
+SW,air-namibia,Air Namibia
+NZ,air-new-zealand,Air New Zealand
+PX,air-niugini,Air Niugini
+4N,air-north-yukons-airline,Air North Charter - Canada
+YW,air-nostrum,Air Nostrum
+JU,air-serbia,Air Serbia
+HM,air-seychelles,Air Seychelles
+TN,air-tahiti-nui,Air Tahiti Nui
+TS,air-transat,Air Transat
+VL,air-vanuata,Air VIA
+UM,air-zimbabwe,Air Zimbabwe
+AK,airasia,AirAsia
+XJ,airasia-x,Mesaba Airlines
+Z2,airasia-zest,Zest Air
+BT,airbaltic,Air Baltic
+PA,air-blue,Parmiss Airlines (IPV)
+NO,aircalin,North Pacific Airlines
+TL,airnorth,Trans Mediterranean Airlines
+AN,alaska-airlines,Ansett Australia
+AZ,alitalia,Alitalia
+G4,allegiant-air,Allegiant Air
+AA,american-airlines,American Airlines
+MQ,american-eagle,American Eagle Airlines
+NH,ana-all-nippon-airways,All Nippon Airways
+TK,anadolujet,Turkish Airlines
+W3,arik-air,World Scale Airlines
+OR,arkefly,Arkefly
+IZ,arkia-israeli,Arkia Israel Airlines
+OZ,asiana-airlines,Ozark Air Lines
+KP,asky-airlines,Dense Airways
+RC,atlantic-airways,Atlantic Airways
+KK,atlasjet-airlines,Atlasjet
+GC,aurigny-air,Lina Congo
+OS,austrian-airlines,Austrian Airlines
+AV,avianca,Avianca - Aerovias Nacionales de Colombia
+O6,avianca-brasil,Oceanair
+2K,aerogal-aerolineas-galapagos,Aerolineas Galapagos (Aerogal)
+9V,avior-airlines,Volotea Costa Rica
+J2,azerbaijan-airlines,Azerbaijan Airlines
+AD,azul-linhas-aereas-brasileiras,Azul
+CJ,ba-cityflyer,BA CityFlyer
+UP,bahamasair,Bahamasair
+PG,bangkok-airways,Bangkok Airways
+JD,beijing-capital-airlines,Japan Air System
+B2,belavia,Belavia Belarusian Airlines
+BV,berjaya-air,Blue Panorama Airlines
+JA,bh-airlines,B&H Airlines
+B3,bhutan-airlines,Bellview Airlines
+BG,biman-bangladesh,Biman Bangladesh Airlines
+NT,binter-canarias,Binter Canarias
+PV,bluexpress,PAN Air
+0B,blue-air,Blue Air
+SI,blue-islands,Skynet Airlines
+BV,blue-panorama-airlines,Blue Panorama Airlines
+KF,blue1,Blue1
+BD,bmi-british-midland-international,bmi
+BD,bmi-regional,bmi
+OB,boliviana-de-aviacin,Astrakhan Airlines
+BA,british-airways,British Airways
+SN,brussels-airlines,Brussels Airlines
+U4,buddha-air,PMTair
+FB,bulgaria-air,Bulgaria Air
+BE,buraq,Flybe
+K6,cambodia-angkor-airlines,Cambodia Angkor Air (K6)
+5T,canadian-north,Canadian North
+PO,canjet-airlines,FlyPortugal
+9K,cape-air,Cape Air
+BW,caribbean-airlines,Caribbean Airlines
+V3,carpatair,Carpatair
+CX,cathay-pacific-airways,Cathay Pacific
+GC,cayman-airways,Lina Congo
+5J,cebu-pacific,Cebu Pacific
+CI,china-airlines,China Airlines
+MU,china-eastern-airlines,China Eastern Airlines
+CZ,china-southern-airlines,China Southern Airlines
+KN,china-united-airlines,China United
+WX,cityjet,CityJet
+MN,comair,Comair
+DE,condor-airlines,Condor Flugdienst
+CO,continental-airlines,Continental Express
+V0,conviasa,Conviasa
+CM,copa-airlines,Copa Airlines
+SS,corsair,Corsairfly
+OU,croatia-airlines,Croatia Airlines
+OK,csa-czech-airlines,Czech Airlines
+CU,cubana-airlines,Cubana de Aviación
+DX,danish-air,DAT Danish Air Transport
+DR,darwin,Air Mediterranee
+DL,delta-air-lines,Delta Air Lines
+Z6,dniproavia,ZABAIKAL AIRLINES
+KA,dragonair,Dragonair
+ZE,eastarjet,Eastar Jet
+T3,eastern-airways,Eastern Airways
+U2,easyjet,United Feeder Service
+WK,edelweiss-air,Edelweiss Air
+MS,egyptair,Egyptair
+LY,el-al-israel-airlines,El Al Israel Airlines
+DX,emirates,DAT Danish Air Transport
+7H,era-aviation,Era Alaska
+B8,eritrean-airlines,Eritrean Airlines
+OV,estonian-air,Estonian Air
+ET,ethiopian-airlines,Ethiopian Airlines
+EY,etihad-airways,Etihad Airways
+EW,eurowings,Eurowings
+BR,eva-air,EVA Air
+FE,far-eastern,Primaris Airlines
+FO,felix-airways,Airlines Of Tasmania
+FJ,fiji-airways,Air Pacific
+AY,finnair,Finnair
+SZ,firefly,Salzburg arrows
+5H,fly540-com,Fly540
+BE,flybe,Flybe
+FZ,flydubai,Fly Dubai
+XY,flynas,Nas Air
+AN,free-bird,Ansett Australia
+F9,frontier-airlines,Frontier Airlines
+GA,garuda-indonesia,Garuda Indonesia
+A9,georgian-airways,Georgian Airways
+4U,germanwings,Germanwings
+G8,goair,Gujarat Airways
+G3,gol,Sky Express
+GF,gulf-air,Gulf Air Bahrain
+HU,hainan-airlines,Hainan Airlines
+HA,hawaiian-airlines,Hawaiian Airlines
+2L,helvetic,Helvetic Airways
+VD,henan-airlines,SwedJet Airways
+HK,hong-kong,Yangon Airways
+HX,hong-kong-airlines,Hong Kong Airlines
+A5,hop,Airlinair
+QX,horizon-air,Horizon Air
+IB,iberia,Iberia Airlines
+FI,icelandair,Icelandair
+6E,indigo-airlines,IndiGo Airlines
+7I,insel-air,Insel Air (7I/INC) (Priv)
+4O,interjet,Interjet (ABC Aerolineas)
+FD,intersky,Thai AirAsia
+IR,iran-air,Iran Air
+EP,iran-aseman,Iran Aseman Airlines
+6H,israir-airlines,Israir
+JL,japan-airlines,Japan Airlines Domestic
+J9,jazeera-airways,Jazeera Airways
+QK,jazz,Air Canada Jazz
+7C,jeju-air,Jeju Air
+9W,jet-airways,Jet Airways
+LS,jet2-com,Jet2.com
+TB,jetairfly,TrasBrasil
+B6,jetblue-airways,JetBlue Airways
+JQ,jetstar-airways,Jetstar Airways
+3K,jetstar-asia,Jetstar Asia Airways
+BL,jetstar-pacific,Jetstar Pacific
+LJ,jin-air,Jin Air
+HO,juneyao-airlines,Juneyao Airlines
+RQ,kam-air,Kam Air
+TU,karthago-airlines,Tunisair
+KQ,kenya-airways,Kenya Airways
+Y9,kish-air,Kish Air
+KL,klm-royal-dutch-airlines,KLM Royal Dutch Airlines
+KE,korean-air,Korean Air
+MN,kulula,Comair
+KW,kuwait-airways,Carnival Air Lines
+B0,la-compagnie,Aws express
+TM,lam-mozambique-airlines,Air Mozambique
+LA,lan-airlines,LAN Airlines
+BO,lan-colombia,Bouraq Indonesia Airlines
+LI,lan-peru,Leeward Islands Air Transport
+QV,lao-airlines,Lao Airlines
+PO,liat,FlyPortugal
+LN,libyan-airlines,Libyan Arab Airlines
+JT,lion-air,Lion Mentari Airlines
+ED,loganair,Airblue
+C0,lot-polish-airlines,Centralwings
+8L,lucky-air,Redhill Aviation
+LH,lufthansa,Lufthansa Cargo
+LG,luxair,Luxair
+W5,mahan-air,Mahan Air
+KU,malaysia-airlines,Kuwait Airways
+OD,malindo-air,Malindo Air
+TF,malm-aviation,Malmö Aviation
+JE,mango,Mango
+MP,martinair,Martinair
+IG,meridiana,Meridiana
+OM,miat-mongolian,MIAT Mongolian Airlines
+ME,mea-middle-east-airlines,Middle East Airlines
+HA,mokulele-airlines,Hawaiian Airlines
+2M,moldavian-airlines,Moldavian Airlines
+ZB,monarch-airlines,Monarch Airlines
+YM,montenegro-airlines,Montenegro Airlines
+8M,myanmar-airways,Myanmar Airways International
+RA,nepal-airlines,Royal Nepal Airlines
+2N,nextjet,NextJet
+HG,niki,Niki
+DD,nok-air,Nok Air
+5N,nordavia,Aeroflot-Nord
+DY,norwegian,Norwegian Air Shuttle
+BJ,nouvelair,Nouvel Air Tunisie
+1I,novair,Sky Trek International Airlines
+BK,okay-airways,Potomac Air
+AT,olympic-air,Royal Air Maroc
+WY,oman-air,Oman Air
+8Q,onur-air,Maldivian Air Taxi
+EC,openskies,Avialeasing Aviation Company
+HK,orient-thai,Yangon Airways
+PK,pia-pakistan-international-airlines,Pakistan International Airlines
+DV,pal-express,Scat Air
+2Z,passaredo-linhas-aereas,Changan Airlines
+MM,peach-aviation,Peach Aviation
+PC,pegasus-airlines,Pegasus Airlines
+P9,peruvian-airlines,Peruvian Airlines
+PS,petroleum-air-services,Ukraine International Airlines
+PR,philippine-airlines,Philippine Airlines
+HK,phuket-air,Yangon Airways
+PD,porter-airlines,Porter Airlines
+PW,precision,Precision Air
+QF,qantas-airways,Qantas
+QF,qantaslink,Qantas
+QR,qatar-airways,Qatar Airways
+RX,regent-airways,Rainbow Air Polynesia
+ZL,regional-express,Regional Express
+FV,rossiya-airlines,Rossiya-Russian Airlines
+AT,royal-air-maroc,Royal Air Maroc
+BI,royal-brunei-airlines,Royal Brunei Airlines
+RJ,royal-jordanian-airlines,Royal Jordanian
+WB,rwandair,Rwandair Express
+FR,ryanair,Ryanair
+S7,s7-siberia-airlines,S7 Airlines
+CP,sa-express,Compass Airlines
+4Q,safi-airways,Safi Airlines
+SB,santa-barbara,Air Caledonie International
+SK,sas-scandinavian-airlines,Scandinavian Airlines System
+S4,sata-air-azores,SATA International
+S4,sata-internacional,SATA International
+SV,saudi-arabian-airlines,Saudi Arabian Airlines
+TZ,scoot,Scoot
+NL,shaheen-air,Shaheen Air International
+SC,shandong-airlines,Shandong Airlines
+FM,shanghai-airlines,Shanghai Airlines
+ZH,shenzhen-airlines,Shenzhen Airlines
+3U,sichuan-airlines,Sichuan Airlines
+MI,silkair,SilkAir
+SQ,singapore-airlines,Singapore Airlines Cargo
+H2,sky-airline,Sky Airline
+G3,sky-express-airlines,Sky Express
+AK,skybus,AirAsia
+BC,skymark-airlines,Skymark Airlines
+OO,skywest-airlines,SkyWest
+S5,small-planet-airlines-uab,Trast Aero
+QS,smartwings,Travel Service
+8R,sol-lineas-aereas,TRIP Linhas A
+IE,solomon-airlines,Solomon Airlines
+SA,south-african-airways,South African Airways
+WN,southwest-airlines,Southwest Airlines
+SG,spicejet,Spicejet
+NK,spirit-airlines,Spirit Airlines
+AS,spring,Alaska Airlines
+UL,srilankan-airlines,SriLankan Airlines
+SJ,sriwijaya-air,Sriwijaya Air
+7G,starflyer,Star Flyer
+SD,sudan-airways,Sudan Airways
+SY,sun-country-airlines,Sun Country Airlines
+WG,sunwing-airlines,Sunwing
+PY,surinam-airways,Surinam Airways
+LX,swiss-international-air-lines,Swiss International Air Lines
+DA,syrianair,Dana Air
+DT,taag-angola-airlines,TAAG Angola Airlines
+SA,taca,South African Airways
+TA,taca-regional,Grupo TACA
+VR,tacv-cabo,TACV
+7J,tajikistan-airlines,Tajik Air
+JJ,tam-airlines,TAM Brazilian Airlines
+EQ,tame,TAME
+TP,tap-portugal,TAP Portugal
+RO,tarom-romanian-airlines,Tarom
+FD,thai-airasia,Thai AirAsia
+TG,thai-airways,Thai Airways International
+MT,thomas-cook-airlines,Thomas Cook Airlines
+HQ,thomas-cook-belgium-airlines-customer,HQ- Business Express
+DK,thomas-cook-airlines-scandinavia,Eastland Air
+BY,thomson-airways,Thomsonfly
+GS,tianjin-airlines,Grant Aviation
+TT,tigerair,Tiger Airways Australia
+UN,transaero-airlines,Transaero Airlines
+GE,transasia-airways,TransAsia Airways
+HV,transavia,Transavia Holland
+9N,tropic-air-belize,Regional Air Iceland
+X3,tuifly,TUIfly
+TU,tunisair,Tunisair
+TK,turkish-airlines,Turkish Airlines
+T5,turkmenistan-airlines,Turkmenistan Airlines
+PS,ukraine-international-airlines,Ukraine International Airlines
+UA,united-airlines,United Airlines
+U6,ural-airlines,Ural Airlines
+US,us-airways,US Airways
+UT,utair-aviation,UTair Aviation
+TA,uzbekistan-airways,Grupo TACA
+JW,vanilla-air,Arrow Air
+VJ,vietjetair,Royal Air Cambodge
+VN,vietnam-airlines,Vietnam Airlines
+VX,virgin-america,Virgin America
+VS,virgin-atlantic-airways,Virgin Atlantic Airways
+VA,virgin-australia,Virgin Australia
+VG,vlm-airlines,VLM Airlines
+ML,volaris,Maldivo Airlines
+V7,volotea,VOLOTEA Airways
+VY,vueling-airlines,Vueling Airlines
+WS,westjet,WestJet
+TR,wideroe,Tiger Airways
+TK,wizz-air,Turkish Airlines
+WW,wow-air,bmibaby
+MF,xiamen-airlines,Xiamen Airlines
+SE,xl-airways-france,XL Airways France
+R3,yakutia-airlines,Aircompany Yakutia
+RG,yangon-airways,VRG Linhas Aereas
+AD,yemenia,Azul
